@@ -13,8 +13,8 @@ npm intall
 npm start
 ## badges
 ![License](https://img.shields.io/badge/javascript-73.6-blue) 
-#### Heroku Git URL
-https://git.heroku.com/burgers-handlebar.git
+#### Heroku URL
+https://burgers-handlebar.herokuapp.com/
 
 #### URL Github Repo:
  https://aminbouzouita.github.io/Burgers-Handlebars/
