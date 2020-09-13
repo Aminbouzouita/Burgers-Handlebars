@@ -3,7 +3,7 @@ body {
   background-size: 1550px 758px;
 }
 .row {
-   margin-top: 200px;
+   margin-top: 400px;
 }
 h2 {
   color: cornsilk;
@@ -32,6 +32,7 @@ li {
   margin-bottom: 5px;
 }
 .submit {
+  margin-left: 136px;
   background-color: rgb(8, 64, 247);
   color: white;
 }
