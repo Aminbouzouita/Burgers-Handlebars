@@ -1,0 +1,37 @@
+body {
+  background-image: url("burger.jpg");
+  background-size: 1550px 758px;
+}
+.row {
+   margin-top: 200px;
+}
+h2 {
+  color: cornsilk;
+}
+ul {
+  
+  background: #faebd7;
+}
+li {
+  list-style: decimal;
+  padding: 5px;
+  margin: 5px;
+}
+#burger {
+  height: 120px;
+  width: 340px;
+}
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  
+  margin-bottom: 5px;
+}
+.submit {
+  background-color: rgb(8, 64, 247);
+  color: white;
+}
